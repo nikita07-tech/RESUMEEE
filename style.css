@@ -3,7 +3,7 @@ body {
     font-size: 12px;
     max-width: 960px;
     margin: auto;
-    background-color: lightcyan;
+    background-color: rgba(74, 248, 248, 0.178);
 }
 h1 {
     font-size: 3em;
@@ -16,6 +16,7 @@ h1 {
 h2 {
     font-size: 1.5em;
     padding-bottom: 1em;
+    font-size: x-large;
 }
 
 h3 {
@@ -29,7 +30,5 @@ main {
     grid-template-columns: 40% 60%;
     margin-top: 3em;
 }
-header {
-    text-align: center;
-    margin: auto 2em;
+header {text-align: center;margin: auto 2em;
 }
